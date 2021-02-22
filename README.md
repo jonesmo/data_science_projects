@@ -2,7 +2,7 @@
 
 This repo contains a selection of data science projects I've completed.
 
-##Languages & Libraries:
+## Languages & Libraries:
 
 * Python 3.6.9
 * Pandas 1.1.5

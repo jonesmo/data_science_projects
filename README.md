@@ -18,9 +18,11 @@ This repo contains a selection of data science projects I've completed.
   * Narrowed feature space from 147 to 27 by automating assessment of colinearity using Python
   * Visualized results with matplotlib and seaborn
   * Best model achieved an R^2 value of 0.6
+  * ####Tech: Python, pandas, Scikit-learn, linear regression, random forest, SVM, gradient boosting, matplotlib, seaborn
 
 ### School Closures and COVID-19 Death Rates (Experimental Design)
   * Designed experiment using University of Oxford global COVID education policy data, UN Economic and Social Affairs data, and COVID death rates for 122 countries in April 2020
   * Established a metric for measuring strenuousness of school closure policies by country
   * Visualized results with matplotlib and seaborn
   * Tested significance of differences in death rates by strenuousness category; established that, as of several weeks into the pandemic, there was not yet a significant relationship between the choice to close schools in a country and its COVID death rate.
+  * ####Tech: statsmodels, Python, pandas, seaborn

@@ -41,6 +41,6 @@ This repo contains a selection of data science projects I've completed.
   * Visualized results with matplotlib and seaborn
   * Tested significance of differences in death rates by strenuousness category; established that, as of several weeks into the pandemic, there was not yet a significant relationship between the choice to close schools in a country and its COVID death rate.
 
-### Flight Price Prediction (Regression with Tensorflow)
+### Flight Price Prediction (Regression)
   * Enhanced feature space by feature engineering for dataset of ~25,000 flights taken from Google course
   * Achieved RMSE of ~5.22 on predictions of flight price using Tensorflow regression model

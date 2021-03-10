@@ -23,6 +23,10 @@ This repo contains a selection of data science projects I've completed.
   * Automated audio pre-processing system for use with deep learning architectures, speeding audio processing and model training by 85%
   * Trained models on dataset of 104,000 crowdsourced wav files of spoken audio compiled by Google AI team
 
+### Churn Analysis: A Decision Tree to Predict Customer Churn (Classification)
+  * Implemented end-to-end machine learning lifecycle using Scikit-learn to predict customer churn (categorical) on customer data from Google course
+  * Achieved ~97% accuracy, precision, and recall in binary classification using decision tree of whether a customer will drop service
+
 ### Music Information Retrieval: Clustering Music Tracks by Genre (Unsupervised Learning, Classification)
   * Standardized Greek Audio Dataset, which mirrors Million-Song Dataset in structure and contains 1000 full-length musical tracks representing eight genres of Greek music
   * Visualized high-dimensional data using PCA and UMAP to gauge utility of clustering methods for classifying tracks by genre
